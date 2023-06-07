@@ -6,7 +6,6 @@
 
 ## Plan
  * speach to text and text to speach software
- * programing language: python
  * get the sound input
  * section sound input into words 
  * interpret words 
